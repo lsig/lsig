@@ -3,7 +3,7 @@ lsig/lsig is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 
-:wave: Hi, I'm Logi Sigurðarson
+🚀: Hi, I'm Logi Sigurðarson
 
 I'm a software engineering student at Reykjavík University, where I'm ranked in the top 2% of my class. I'm passionate about writing clean, efficient code and always strive to improve my skills.
 
