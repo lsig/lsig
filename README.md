@@ -9,21 +9,21 @@ I'm a software engineering student at Reykjavík University, where I'm ranked in
 
 :computer: Technologies I'm Proficient In
 
-🐍 Python
+* 🐍 Python
 
-☕ Java
+* ☕ Java
 
-🦀 Rust (currently learning)
+* 🦀 Rust (currently learning)
 
-**C** (some experience)
+* **C** (some experience)
 
 :toolbox: Skills and Experience
 
-Agile software development processes
+* Agile software development processes
 
-Microservice architecture
+* Microservice architecture
 
-Design Patterns
+* Design Patterns
 
 :mortar_board: Education
 
