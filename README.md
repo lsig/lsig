@@ -27,5 +27,5 @@ I'm a software engineering student at Reykjavík University, where I'm ranked in
 
 :mortar_board: Education
 
-Currently completing a B.Sc. in Software Engineering at Reykjavík University - 90 ECTS
+Currently completing a B.Sc. in Software Engineering at Reykjavík University. 
 Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/logi-sigur%C3%B0arson-a32705243/) or check out my projects below!
