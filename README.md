@@ -11,7 +11,7 @@ I'm a software engineering student at Reykjavík University, where I'm ranked in
 
 * 🐍 Python
 
-* 🔮 Javascript, CSS and HTML (🃏 testing with Jest)
+* 🔮 Javascript, CSS and HTML (testing with 🃏 Jest)
 
 * ☕ Java
 
