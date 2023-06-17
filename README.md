@@ -13,9 +13,9 @@ I'm a software engineering student at Reykjavík University, where I'm ranked in
 
 * 🔮 Javascript, CSS and HTML (testing with 🃏 Jest)
 
-* ☕ Java
+* ⚛️ React with Typescript (see todo-site)
 
-* 🦀 Rust (currently learning)
+* 🦀 Rust (currently learning, see todo-site backend)
 
 * **C** (some experience)
 
