@@ -17,6 +17,8 @@ I'm a software engineering student at Reykjavík University, where I'm ranked in
 
 * 🦀 Rust (currently learning, see todo-site backend)
 
+* 🫐 Go (currently learning, see logis.dev)
+
 * **C** (some experience)
 
 :toolbox: Skills and Experience
